@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/.venv/
+hello.txt
+hello_copy.txt
+numbers.txt
+test_folder/
